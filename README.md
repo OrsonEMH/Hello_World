@@ -1,2 +1,7 @@
 # Hello_World
-Prueba 
+Prueba de *Github*
+
+## Temario del curso de simulacion matematica
+ 1. Optimisacion  
+ 2. Simulacion montecarlo 
+ 3.  EDO 
