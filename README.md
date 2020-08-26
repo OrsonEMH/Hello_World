@@ -5,3 +5,5 @@ Prueba de *Github*
  1. Optimisacion  
  2. Simulacion montecarlo 
  3.  EDO 
+
+### este repositorio tambien contiene lista de compras
