@@ -6,4 +6,6 @@ Prueba de *Github*
  2. Simulacion montecarlo 
  3.  EDO 
 
-### este repositorio tambien contiene lista de compras
+### Este repositorio tambien contiene lista de compras
+
+Agregue un nuevo archivo 
